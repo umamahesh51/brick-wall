@@ -22,7 +22,7 @@ class Wall extends React.Component {
                     })
                 }
 
-                <button class = "btn" onClick={this.addOneMoreBrick}> Add More</button>
+                <button className = "btn" onClick={this.addOneMoreBrick}> Add More</button>
             </div>
         )
     }

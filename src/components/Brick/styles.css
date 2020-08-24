@@ -1,0 +1,14 @@
+.brick-container {
+    border: 1px black solid;
+    font: fantasy;
+    font-weight: bold;
+    font-size: 20px;
+    min-width: 30px;
+    margin: 10px;
+    padding: 50px;
+    min-height: 30px;
+    background-color:yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
